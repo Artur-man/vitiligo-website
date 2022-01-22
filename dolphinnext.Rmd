@@ -15,10 +15,10 @@ All raw sequencing data and associated metadata of samples from affected and una
 
 Raw sequenced data was processed by the scRNA-Seq inDrop pipeline developed within the interactive pipeline manager <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6714-x">DolphinNext</a>. A downloadable container of all required sofware and R libraries of the inDrop Pipeline can be found in both Docker Hub and GitHub. 
 
-* **Docker Hub**: <a href="https://hub.docker.com/repository/docker/dolphinnext/indrop" target="_blank">https://hub.docker.com/repository/docker/dolphinnext/indrop</a> 
+* **Docker Hub**: <a href="https://hub.docker.com/r/dolphinnext/indrop" target="_blank">https://hub.docker.com/r/dolphinnext/indrop</a> 
 * **GitHub**: <a href="https://github.com/dolphinnext/indrop" target="_blank">https://github.com/dolphinnext/indrop</a>  
 
-# DolphinSuite Platforms
+## DolphinSuite Platforms
 
 <a href="https://www.umassmed.edu/biocore/" target="_blank">UMass Chan Medical School BioCore</a> has developed **DolphinSuite**, a platform to support the analysis of high throughput data. DolphinSuite supports the full research cycle by allowing users to track samples from sample collection to data processing (sequencing, proteomics, metabolomics) and finally to interactive analysis using an intuitive web interface. DolphinSuite is built to ensure secure access to the processed data using 3rd party applications for tailor-made analysis and data sharing. 
 

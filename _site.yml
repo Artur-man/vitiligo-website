@@ -7,15 +7,15 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Browser"
+      icon: fa-project-diagram 
+      href: browse.html
     - text: "SignallingSingleCell"
       icon: fa-laptop 
       href: signallingsinglecell.html
     - text: "DolphinSuite"
       icon: fa-database
       href: dolphinnext.html
-    - text: "Cellxgene Browser"
-      icon: fa-project-diagram 
-      href: browse.html
   right:
     - text: "Contact"
       icon: fa-envelope-o
